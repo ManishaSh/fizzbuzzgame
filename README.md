@@ -9,7 +9,7 @@
 ## Steps to run on cloud deployed external API 
 
 1. This is Goocle Cloud app engine deployed service
-2. Run the API :-  curl -XGET 'https://oneiocloud.uc.r.appspot.com/fizz-buzz?number={VALUE}' 
+2. Run the API :-  curl -XGET 'https://backend-dot-oneiocloud.uc.r.appspot.com/fizz-buzz?number={VALUE}' 
 
 
 
